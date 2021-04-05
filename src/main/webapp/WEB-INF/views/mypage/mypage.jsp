@@ -63,15 +63,13 @@ $(function() {
 	<div class="menu2" style="display: none;">
 	<table class="tab" style="width: 300px; float: left;">
 	<caption>내정보수정</caption>
-	<thead><tr><th>이름</th><th>아이디</th><th>닉네임</th></tr></thead>
-	<tr><td>홍길동2</td><td>adfs12</td><td>gogo</td></tr>
-	<tr><td>홍길동</td><td>adfs12</td><td>gogo</td></tr>
-	<tr><td>홍길동3</td><td>adfs12</td><td>gogo</td></tr>
-	<tr><td>홍길동</td><td>adfs12</td><td>gogo</td></tr>
-	<tr><td>홍길동</td><td>adfs12</td><td>gogo</td></tr>
-	<tr><td>홍길동4</td><td>adfs12</td><td>gogo</td></tr>
-	<tr><td>홍길동41</td><td>adfs12</td><td>gogo</td></tr>
-	<tr><td>홍길동22</td><td>adfs12</td><td>gogo</td></tr>
+	<tr><td>이름 :</td><td></td></tr>
+	<tr><td>ID :</td><td></td></tr>
+	<tr><td>Email :</td><td></td></tr>
+	<tr><td>생년월일</td><td></td></tr>
+	<tr><td>휴대전화</td><td></td></tr>
+	<tr><td>누적경고수횟수</td><td>0</td></tr>
+	<tr><td><button id="infoupdate">수정하기</button></td></tr>
 	</table>
 	</div>
 </div>
