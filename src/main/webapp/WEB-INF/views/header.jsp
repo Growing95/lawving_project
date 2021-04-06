@@ -70,7 +70,7 @@ ${members.members_name }님|&nbsp;
 </div>
 </header>
 <ul id="toolmenu">
-<li><a href="#">공지사항</a></li>
+<li><a href="#">공지사항12</a></li>
 <li><a href="#">자료실</a></li>
 <li><a href="#">Q&A</a></li>
 <li><a href="#">chatbot</a></li>
