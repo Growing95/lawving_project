@@ -1,5 +1,5 @@
 package com.ict.lawving.qna.model.service;
 
-public class PleaseDelete {
+public interface QnAService {
 
 }

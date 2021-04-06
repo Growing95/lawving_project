@@ -1,5 +1,5 @@
 package com.ict.lawving.qna.controller;
 
-public class PleaseDelete {
+public class UserQnAController {
 
 }
