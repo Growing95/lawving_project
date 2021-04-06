@@ -63,7 +63,7 @@ margin-right: 20%;
 </c:choose>
 </header>
 <ul id="toolmenu">
-<li><a href="#">공지사항1</a></li>
+<li><a href="#">공지사항12</a></li>
 <li><a href="#">자료실</a></li>
 <li><a href="#">Q&A</a></li>
 <li><a href="#">챗봇</a></li>
